@@ -46,9 +46,11 @@
 11. `git pull`
     Fetches and merges changes from the
     remote repository to your local one.
-12. `git fetch`
+12. `git merge`
+    Merges changes from one branch into another.
+13. `git fetch`
     Downloads changes from the remote, but
     doesn't merge them automatically.
-13. `git clone <repo>`
+14. `git clone <repo>`
     Copies a remote repository to your
     local machine.
